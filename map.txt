@@ -1,0 +1,56 @@
+
+/* ------ stage 1 | SLOTS ROOM
+ 1) Hack slots -- work with hacker -- lose hacker 
+ 2) win roullete -- works with the face
+ 3) fire alarm -- everyone loses
+ 4) drug gaurd -- works but muscle dies.
+
+
+ ------ stage 2 | VIP ROOM
+ 1) 3 people. F, M, L
+  -- 1). The Face vomits on the chips. Causes distraction. Lock smith bracks lock. -- Lose the Face.
+       -- L, M get into halway..
+          1). Use M to break door. -- Lose Lock smith in wallway. M makes into the final room. 
+              a. Fight the gaurd -- get eaten by karate dogs.
+              b. Fight dogs -- get shot byt gaurd.
+           2). Locksmit trys compupter lock -- fails and the hallway fills with gas. everyone dies.
+     2). M starts fight with gaurds. L, F gets through first door. -- lose M. 
+          1). L can try computer lock -- all die
+          2). Face tries talking to the gaurd on other side of door. 
+                gets three tries at password.
+                1.) lose password. all die from gas
+                 2.) guess right get access to final room.
+                      1). sweat talks the gaurd and offers cut. Lock smith breaks lock...(base on luck), WIN / 4!!!!
+      3). L just tries to lie and say he is a mechanic and work on door. Everyone gets caught.
+ 2) Everyone makes it in. F,M,L,H; (chance); might fail. 
+      1). "Face Vomit" L,M,H - in hallway
+               1). Hacker hacks - dies at door
+                   1). L, M, - M takes down gaurd, L unlocks safe. --- WIN / 3!!!
+                   2). L takes on gaurd -- Lose.
+
+      2). "M fights gaurds" -- F, H, L, 
+              1). hacker door. hackers dies.  -- F, L, 
+                        1). F bribe gaurd --- (chance) WIN! /5!!
+                        2.) F fight gaurd - lose
+                        3.) L fight - lose
+                2.) Face talks to gaurd. guess password
+                    1). F bribe - WIN /6!!
+                    2). H fight -- hacker dies - WIN / 4!!
+                    3). L lose
+        3). L pretends to fix door. - lose
+        4). H hacks into entertainment center to distract. Lose hacker.
+            1). F, M, L
+             options above
+    4). F, H, L
+            1) F vomit
+               1). H door - dies
+                   1) L gaurd - lose
+                   2) L dogs - lose
+                2.) L door - lose
+            2) L lies - lose
+            3) H distract - 
+               1). L tries door - lose
+               2). F password - Win /4!!
+            
+             
+*/
