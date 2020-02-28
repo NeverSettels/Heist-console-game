@@ -38,6 +38,7 @@
                     2). H fight -- hacker dies - WIN / 4!!
                     3). L lose
         3). L pretends to fix door. - lose
+
         4). H hacks into entertainment center to distract. Lose hacker.
             1). F, M, L
              options above

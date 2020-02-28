@@ -5,7 +5,7 @@ using StyleSheet = Colorful.StyleSheet;
 using Stage;
 
 
-namespace planter
+namespace Heist
 {
   class Program
   {
@@ -19,8 +19,7 @@ namespace planter
 
 
       //START GAME
-      Console.WriteAscii("Welcome to the", Color.Cyan);
-      Console.WriteAscii("greate Casino Heist!", Color.Cyan);
+      Global.Title();
       Console.WriteLine("You are the brain to the heist of the century", Color.Green);
       Console.WriteLineStyled(introMenu, styleSheet);
       Console.Write("Enter : ", Color.Green);
